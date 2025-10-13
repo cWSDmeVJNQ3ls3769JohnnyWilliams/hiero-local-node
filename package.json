@@ -39,7 +39,7 @@
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/release-notes-generator": "^14.0.1",
     "@types/chai": "4.3.16",
-    "@types/detect-port": "^1.3.5",
+    "@types/detect-port": "^2.0.0",
     "@types/dockerode": "^3.3.29",
     "@types/expect": "^24.3.0",
     "@types/js-yaml": "^4.0.9",
@@ -67,7 +67,7 @@
   "dependencies": {
     "@hashgraph/sdk": "2.66.0",
     "csv-parser": "^3.2.0",
-    "detect-port": "^1.6.1",
+    "detect-port": "^2.1.0",
     "dockerode": "^4.0.6",
     "dotenv": "^16.5.0",
     "ethers": "^6.13.5",
