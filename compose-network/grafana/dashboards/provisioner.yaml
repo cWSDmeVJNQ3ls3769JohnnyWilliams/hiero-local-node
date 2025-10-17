@@ -7,3 +7,5 @@ providers:
     options:
       path: /etc/grafana/provisioning/dashboards
       foldersFromFilesStructure: true
+
+# Update: 2025-10-17
